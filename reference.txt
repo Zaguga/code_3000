@@ -11,3 +11,6 @@ How I fixed the error of the notebook not running and working:
 git add .
 git commit -m "message"
 git push
+git checkout -b {}
+git status
+git checkout main
