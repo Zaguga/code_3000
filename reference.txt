@@ -1,2 +1,13 @@
 How I fixed the error of the notebook not running and working:
 - https://chatgpt.com/c/6a9865ac-8d28-83ea-9d59-dcc3cef0b6f5
+
+
+
+
+
+
+
+
+git add .
+git commit -m "message"
+git push
